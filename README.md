@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kev!</h1>
 <h3 align="center">A full stack MERN developer</h3>
 
-<p align="left"><a href="https://github-profile-trophy.vercel.app/?kevocode22=ryo-ma&theme=onedark"></a>
+<p align="left"><a href="https://github-profile-trophy.vercel.app/?kevocode22=ryo-ma&theme=chalk"></a>
  </p>
 
-<img src="https://github-profile-trophy.vercel.app/?kevocode22=ryo-ma&theme=onedark"> </img>
+<img src="[https://github-profile-trophy.vercel.app/?kevocode22=ryo-ma&theme=onedark](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)"> </img>
 - 📫 How to reach me **ocampokevin14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
