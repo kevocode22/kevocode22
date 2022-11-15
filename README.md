@@ -4,7 +4,7 @@
 <p align="left"><a href="https://github-profile-trophy.vercel.app/?kevocode22=ryo-ma&theme=onedark"></a>
  </p>
 
-<img src="https://github-profile-trophy.vercel.app/?kevocode22=ryo-ma&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?kevocode22=ryo-ma&theme=onedark"> </img>
 - 📫 How to reach me **ocampokevin14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
