@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kev!</h1>
 <h3 align="center">A full stack MERN developer</h3>
 
-<p align="left">[![trophy](https://github-profile-trophy.vercel.app/?kevocode22=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"><a href="https://github-profile-trophy.vercel.app/?kevocode22=ryo-ma&theme=onedark"><a/>(https://github-profile-trophy.vercel.app/?kevocode22=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  </p>
 
 - 📫 How to reach me **ocampokevin14@gmail.com**
