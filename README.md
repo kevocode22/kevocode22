@@ -6,7 +6,7 @@
 ### <div align="center">I´m Kevin. A Full Stack MERN Developer</div>  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently working on an ecommerce project
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
