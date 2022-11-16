@@ -69,11 +69,11 @@
 </a>
 
 <a href="https://linkedin.com/in/kevinocampo22" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px" />
 </a>  
  
  <a href="mailto:ocampokevin14@gmail.com" target="_blank">
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png alt=gmail style="margin-bottom: 5px; height:1rem" />
+<img src=https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-1-1.png alt=gmail style="margin-bottom: 10px; height:1rem; margin-left: 5px; background-color:fffff" />
 </a>
 </div>  
   
