@@ -24,7 +24,13 @@ Always driven to grow professionally, eagerly learning new technologies and appl
 
 [Demo](https://ermintek.vercel.app/)
 
-![Video](https://i.imgur.com/X0N9zDf.mp4)
+<div>
+<p style = 'text-align:center;'>
+<iframe width="600" height = "420"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
+</div>
+</p>
 
 <br/>
 
