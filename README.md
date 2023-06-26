@@ -20,17 +20,15 @@ Always driven to grow professionally, eagerly learning new technologies and appl
 <h1 align="center"> Projects </h1>
 
 ## <a href="https://github.com/kevocode22/ermintek" target="_blank">Ermintek Store</a>
-<p>Market is a website made with React.js</p> 
+<p>Ermintek is a website made with React.js</p> 
 
 [Demo](https://ermintek.vercel.app/)
 
-<div>
-<p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
-</div>
-</p>
+
+
+https://github.com/kevocode22/kevocode22/assets/98836786/ec69194a-7554-4476-9189-38a97c456403
+
+
 
 <br/>
 
