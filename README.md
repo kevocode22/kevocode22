@@ -12,7 +12,6 @@ Always driven to grow professionally, eagerly learning new technologies and appl
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevocode22&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="kevocode22" /></p>
 
-<video draggable="false" playsinline="" loop="" class="" hash="X0N9zDf" title="" style="width: 960px; height: 392px;" autoplay=""><source type="video/mp4" src="https://i.imgur.com/X0N9zDf.mp4"></video>
 
 <h1 align="center"> Stack Technologies </h1>
 
@@ -25,11 +24,14 @@ Always driven to grow professionally, eagerly learning new technologies and appl
 
 [Demo](https://ermintek.vercel.app/)
 
-<p align="center">
-<img  src="https://imgur.com/X0N9zDf" width="32%" height='250px'>
-</p>
+
+<iframe width="600" height = "420"
+src="https://imgur.com/X0N9zDf">
+</iframe>
+
 
 <br/>
+
 
 *If you want to know more about me, contact me!*
 <br/>
