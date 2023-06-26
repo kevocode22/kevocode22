@@ -2,7 +2,7 @@
 
 💥 currently learning -->  Typescript
 
-Some of the things I love are  my family👨‍👩‍👧‍👦, fotball⚽, and pizza🍕.
+Some of the things I love are  my family👨‍👩‍👧‍👦, football⚽, and pizza🍕.
 
 I have training in React, Node, and Javascript among others.
 
