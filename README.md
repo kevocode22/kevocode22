@@ -35,7 +35,7 @@ https://github.com/kevocode22/kevocode22/assets/98836786/ec69194a-7554-4476-9189
 https://github.com/kevocode22/kevocode22/assets/98836786/f391743a-d75d-40dc-8e2b-b2077065b160
 
 
-## <a href="https://github.com/kevocode22/tasksWithSQL" target="_blank">Box-Bonny</a>
+## <a href="https://github.com/kevocode22/tasksWithSQL" target="_blank">Task Magement</a>
 <p>App made with React.js, Node, Express and MySQL like database. It´s a task managment for daily use.</p> 
 
 https://github.com/kevocode22/kevocode22/assets/98836786/351e002b-a238-4205-8e63-eeb9623efd51
