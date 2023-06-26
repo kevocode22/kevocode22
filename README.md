@@ -25,7 +25,7 @@ Always driven to grow professionally, eagerly learning new technologies and appl
 [Demo](https://ermintek.vercel.app/)
 
 
-![Ermintek Website]("https://imgur.com/X0N9zDf")
+![Ermintek Website](https://imgur.com/X0N9zDf)
 <br/>
 
 
