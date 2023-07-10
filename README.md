@@ -19,6 +19,10 @@ Always driven to grow professionally, eagerly learning new technologies and appl
 <a src="https://www.mongodb.com/" target="_blank"><img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="mongo" width="40" height="40"/> </a>
  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a src="https://tailwindcss.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" alt="tailwindcss" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="40" height="40" alt="next.js"/>
+</a>
+
 </p>
 
 <h1 align="center"> Projects </h1>
