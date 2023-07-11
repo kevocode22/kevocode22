@@ -1,6 +1,6 @@
 ### I'm Kevin Ocampo, a full stack developer 👨‍💻
 
-💥 currently learning -->  Typescript
+💥 currently learning -->  Cypress
 
 Some of the things I love are  my family👨‍👩‍👧‍👦, football⚽, and pizza🍕.
 
