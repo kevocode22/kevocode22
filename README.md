@@ -27,10 +27,14 @@ Always driven to grow professionally, eagerly learning new technologies and appl
 
 <h1 align="center"> Projects </h1>
 
-<a href="https://promptopiaweb.vercel.app" target='_blank'>Promptopia</a>
+##<a href="https://promptopiaweb.vercel.app" target='_blank'>Promptopia</a>
 <p>A website made with Next.js, TailwindCSS, API creation routes and Mongo like database</p>
+
 [Demo](https://promptopiaweb.vercel.app)
 [Code](https://github.com/kevocode22/promptopia)
+
+https://github.com/kevocode22/kevocode22/assets/98836786/e09ed434-5794-47af-b7a2-2d0bcbd9cd72
+
 
 ## <a href="https://github.com/kevocode22/ermintek" target="_blank">Ermintek Store</a>
 <p>Ermintek is a website made with React.js</p> 
