@@ -1,6 +1,6 @@
-### I'm Kevin Ocampo, a full stack developer 👨‍💻
+### Hi! I'm Kevin, a full stack developer 👨‍💻
 
-💥 currently learning -->  Cypress
+💥 currently learning -->  Next.js 14
 
 Some of the things I love are  my family👨‍👩‍👧‍👦, football⚽, and pizza🍕.
 
