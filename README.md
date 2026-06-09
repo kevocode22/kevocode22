@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0A66C2&height=220&section=header&text=Kevin%20Ocampo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20AI%20Agents%20%7C%20Payments&descAlignY=58&descSize=18" />
@@ -7,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=900&lines=I+build+products+people+actually+use.;Next.js+%2B+TypeScript+%2B+Node.js;AI+agents%2C+SaaS%2C+ERP+and+payment-driven+platforms;From+idea+to+real+business+software.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=600\&size=26\&duration=2800\&pause=900\&color=10B981\&center=true\&vCenter=true\&width=900\&lines=I+build+products+people+actually+use.;Next.js+%2B+TypeScript+%2B+Node.js;AI+agents%2C+SaaS%2C+ERP+and+payment-driven+platforms;From+idea+to+real+business+software.)](https://git.io/typing-svg)
 
 </div>
 
@@ -216,44 +215,7 @@ const kevin = {
   currentlyBuilding: "AI-powered business tools at Talotech",
   mindset: "Build useful products. Keep things simple. Ship fast.",
 };
-````
-
----
-
-## GitHub highlights
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ocampokevin14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ocampokevin14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocampokevin14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ocampokevin14&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-## Contribution graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ocampokevin14&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=10B981&line=0A66C2&point=FFFFFF" />
-
-</div>
+```
 
 ---
 
@@ -271,12 +233,50 @@ Business problem  →  Product thinking  →  Clean UX  →  Scalable code  → 
 
 ---
 
+## GitHub highlights
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kevocode22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kevocode22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevocode22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kevocode22&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+## Contribution graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevocode22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=10B981&line=0A66C2&point=FFFFFF" />
+
+</div>
+
+---
+
 ## Let's build something useful
 
 <div align="center">
 
 I'm open to freelance projects, SaaS collaborations and full-stack product opportunities.
 
+<br />
 <br />
 
 <a href="https://kevinocampo.vercel.app">
@@ -299,4 +299,3 @@ I'm open to freelance projects, SaaS collaborations and full-stack product oppor
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:10B981&height=120&section=footer" />
 
 </div>
-```
