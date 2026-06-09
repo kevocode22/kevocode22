@@ -1,82 +1,302 @@
-<div align="end">
-  <a href="https://kevinocampo.vercel.app">
-    <img src="https://github.com/user-attachments/assets/8f4e0049-1c74-4de5-9cbb-de173587f91c" width="50">
-  </a>
+````md
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0A66C2&height=220&section=header&text=Kevin%20Ocampo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20AI%20Agents%20%7C%20Payments&descAlignY=58&descSize=18" />
+
 </div>
 
-<h1 align="center">
-  <b>Hi, I'm Kevin</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack Developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=900&lines=I+build+products+people+actually+use.;Next.js+%2B+TypeScript+%2B+Node.js;AI+agents%2C+SaaS%2C+ERP+and+payment-driven+platforms;From+idea+to+real+business+software.)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
-  <a href="https://kevinocampo.vercel.app"><img alt="Portfolio" src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=10B981&logo=vercel&logoColor=FFFFFF&label=" /></a>
-  <a href="https://www.linkedin.com/in/kevinocampo22/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" /></a>
-  <a href="mailto:ocampokevin14@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+  <a href="https://kevinocampo.vercel.app">
+    <img alt="Portfolio" src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=10B981&logo=vercel&logoColor=FFFFFF&label=" />
+  </a>
+  <a href="https://www.linkedin.com/in/kevinocampo22/">
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
+  </a>
+  <a href="mailto:ocampokevin14@gmail.com">
+    <img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" />
+  </a>
+  <a href="https://wa.me/541173639077">
+    <img alt="WhatsApp" src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=25D366&logo=WhatsApp&logoColor=FFFFFF&label=" />
+  </a>
 </p>
 
-I build products people actually use. I'm a **Full-Stack Developer** focused on **React, Next.js and TypeScript**, just as comfortable in the backend with **Node.js, PostgreSQL** and real payment integrations like **MercadoPago and Stripe**.
+<br />
 
-Currently at **[Talotech](https://talotech.xyz)**, building **custom AI agents** and full-stack products — from **ERP systems** to **client-management platforms** that turn complex business operations into clean, usable software. Previously, I had the privilege of **collaborating with PUMA** on their global-scale e-commerce.
+<div align="center">
 
-Aside from technology: family, football, and good pizza 🍕.
+### I turn complex business operations into clean, scalable and usable software.
 
-<h1 align="center">Technologies</h1>
+</div>
 
-<h3>Frontend</h3>
+---
 
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
-[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=fff)](#)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](#)
+## About me
 
-<h3>Backend & Data</h3>
+I'm a **Full-Stack Developer** focused on building real products with **React, Next.js, TypeScript, Node.js and PostgreSQL**.
 
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#)
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+I like working where code meets business: **AI agents, SaaS platforms, ERP systems, e-commerce, dashboards, automations and payment flows**.
 
-<h3>AI & Payments</h3>
+Currently at **[Talotech](https://talotech.xyz)**, building **custom AI agents** and full-stack products — from internal business platforms to client-management systems that simplify complex operations.
 
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](#)
-[![MercadoPago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)](#)
-[![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](#)
+Previously, I collaborated with **PUMA** on global-scale e-commerce features and integrations.
 
-<h3>Testing & Tools</h3>
+Outside of code: family, football and good pizza 🍕.
 
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](#)
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](#)
+---
 
-<h1 align="center">Selected Work</h1>
+## What makes my work different
 
-<p align="center">Client products and platforms I've designed, built and shipped.</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Product mindset</h3>
+      <p>I don't just ship screens. I build workflows that solve real business problems.</p>
+    </td>
+    <td width="50%">
+      <h3>Full-stack execution</h3>
+      <p>Frontend, backend, database, auth, payments, integrations and deployment.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Business automation</h3>
+      <p>AI agents, dashboards, internal tools and operational systems that save time.</p>
+    </td>
+    <td width="50%">
+      <h3>Real payment flows</h3>
+      <p>Experience with MercadoPago, Stripe, subscriptions and checkout automation.</p>
+    </td>
+  </tr>
+</table>
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **[Talotech](https://talotech.xyz)** | Custom AI agents and the web platform behind them, including Sentinel, an always-on advisor for inventory and risk. | Next.js · OpenAI · Supabase · Postgres |
-| **[FactuTalo](https://factutalo.talotech.xyz)** | Electronic invoicing SaaS for Argentina, integrated with ARCA, WhatsApp and MercadoPago automation. | Next.js · Node · MercadoPago · Postgres |
-| **[EmpreLibre](https://emprelibre.com)** | Professional e-commerce on your own domain with 0% fees and native MercadoPago and Stripe checkout. | Next.js · MercadoPago · Stripe · Postgres |
-| **[Green Dog Pet Food](https://greendogpetfood.com)** | Subscription e-commerce for premium, plant-based dog food, built around a reforestation mission. | Next.js · Node · MercadoPago |
-| **[Plantify](https://plantify.bio)** | Reforestation platform to plant trees and track real CO₂ impact with digital certification. | Next.js · Node · Postgres |
-| **[PUMA Global E-commerce](https://about.puma.com/en/this-is-puma)** | New features and third-party integrations for PUMA's global e-commerce website. | React · Next.js · Jest · Cypress |
-| **[Tald](https://tald.co)** | New SEO and geolocation-based features for TALD's web application. | Next.js · MongoDB · AWS · Express |
+---
 
-➡️ Full case studies and more on my portfolio: **[kevinocampo.vercel.app](https://kevinocampo.vercel.app)**
+## Tech I use to build
 
-<h1 align="center">Contact</h1>
+<div align="center">
 
-<p>
-  <a href="https://www.linkedin.com/in/kevinocampo22/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-  <a href="mailto:ocampokevin14@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-  <a href="https://wa.me/541173639077"><img alt="WhatsApp" src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=25D366&logo=WhatsApp&logoColor=FFFFFF&label=" /></a>
-  <a href="https://kevinocampo.vercel.app"><img alt="Portfolio" src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=10B981&logo=vercel&logoColor=FFFFFF&label=" /></a>
-</p>
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,html,css,figma" />
+
+### Backend, Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,mongodb,prisma,aws,vercel" />
+
+### Tools, Testing & Workflow
+
+<img src="https://skillicons.dev/icons?i=jest,cypress,git,github,docker,vscode,postman,jira" />
+
+</div>
+
+---
+
+## Featured work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>
+        <a href="https://talotech.xyz">Talotech</a>
+      </h3>
+      <p>
+        Custom AI agents and business platforms, including Sentinel, an always-on advisor for inventory and risk.
+      </p>
+      <p>
+        <b>Stack:</b> Next.js · OpenAI · Supabase · PostgreSQL
+      </p>
+      <p>
+        <b>Focus:</b> AI automation · SaaS · Business workflows
+      </p>
+    </td>
+    <td width="50%">
+      <h3>
+        <a href="https://factutalo.talotech.xyz">FactuTalo</a>
+      </h3>
+      <p>
+        Electronic invoicing SaaS for Argentina, integrated with ARCA, WhatsApp and MercadoPago automation.
+      </p>
+      <p>
+        <b>Stack:</b> Next.js · Node.js · MercadoPago · PostgreSQL
+      </p>
+      <p>
+        <b>Focus:</b> Invoicing · Payments · Automation
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>
+        <a href="https://emprelibre.com">EmpreLibre</a>
+      </h3>
+      <p>
+        Professional e-commerce on your own domain with 0% transaction fees and native MercadoPago and Stripe checkout.
+      </p>
+      <p>
+        <b>Stack:</b> Next.js · MercadoPago · Stripe · PostgreSQL
+      </p>
+      <p>
+        <b>Focus:</b> E-commerce · SaaS · LATAM payments
+      </p>
+    </td>
+    <td width="50%">
+      <h3>
+        <a href="https://about.puma.com/en/this-is-puma">PUMA Global E-commerce</a>
+      </h3>
+      <p>
+        New features and third-party integrations for PUMA's global-scale e-commerce platform.
+      </p>
+      <p>
+        <b>Stack:</b> React · Next.js · Jest · Cypress
+      </p>
+      <p>
+        <b>Focus:</b> Enterprise e-commerce · Frontend · Testing
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>
+        <a href="https://greendogpetfood.com">Green Dog Pet Food</a>
+      </h3>
+      <p>
+        Subscription e-commerce for premium, plant-based dog food, built around a reforestation mission.
+      </p>
+      <p>
+        <b>Stack:</b> Next.js · Node.js · MercadoPago
+      </p>
+      <p>
+        <b>Focus:</b> Subscriptions · E-commerce · Impact
+      </p>
+    </td>
+    <td width="50%">
+      <h3>
+        <a href="https://plantify.bio">Plantify</a>
+      </h3>
+      <p>
+        Reforestation platform to plant trees and track real CO₂ impact with digital certification.
+      </p>
+      <p>
+        <b>Stack:</b> Next.js · Node.js · PostgreSQL
+      </p>
+      <p>
+        <b>Focus:</b> Climate tech · Certificates · Impact tracking
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+### More case studies on my portfolio
+
+<a href="https://kevinocampo.vercel.app">
+  <img alt="View Portfolio" src="https://img.shields.io/static/v1?style=for-the-badge&message=View%20Portfolio&color=10B981&logo=vercel&logoColor=FFFFFF&label=" />
+</a>
+
+</div>
+
+---
+
+## Currently building
+
+```ts
+const kevin = {
+  role: "Full-Stack Developer",
+  focus: ["SaaS", "AI Agents", "ERP Systems", "E-commerce", "Payments"],
+  stack: ["Next.js", "TypeScript", "Node.js", "PostgreSQL", "Supabase"],
+  currentlyBuilding: "AI-powered business tools at Talotech",
+  mindset: "Build useful products. Keep things simple. Ship fast.",
+};
+````
+
+---
+
+## GitHub highlights
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ocampokevin14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ocampokevin14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocampokevin14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ocampokevin14&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+## Contribution graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ocampokevin14&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=10B981&line=0A66C2&point=FFFFFF" />
+
+</div>
+
+---
+
+## The kind of problems I like solving
+
+```txt
+Business problem  →  Product thinking  →  Clean UX  →  Scalable code  →  Real users
+```
+
+* Turning messy operations into simple dashboards.
+* Connecting payments, invoices and automations.
+* Building internal tools that teams actually enjoy using.
+* Creating AI agents that support real decisions, not just demos.
+* Shipping products with business logic, not just pretty interfaces.
+
+---
+
+## Let's build something useful
+
+<div align="center">
+
+I'm open to freelance projects, SaaS collaborations and full-stack product opportunities.
+
+<br />
+
+<a href="https://kevinocampo.vercel.app">
+  <img alt="Portfolio" src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=10B981&logo=vercel&logoColor=FFFFFF&label=" />
+</a>
+<a href="https://www.linkedin.com/in/kevinocampo22/">
+  <img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
+</a>
+<a href="mailto:ocampokevin14@gmail.com">
+  <img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" />
+</a>
+<a href="https://wa.me/541173639077">
+  <img alt="WhatsApp" src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=25D366&logo=WhatsApp&logoColor=FFFFFF&label=" />
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:10B981&height=120&section=footer" />
+
+</div>
+```
